@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Sun JDK 1.6.0_13"/>
+	<classpathentry kind="lib" path="F:/接口/jdk&amp;jar/org.apache.log4j_1.2.15.v201012070815.jar"/>
+	<classpathentry kind="lib" path="F:/接口/jdk&amp;jar/jdom.jar"/>
+	<classpathentry kind="lib" path="F:/接口/working jars/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="F:/接口/working jars/jackson jar/jackson-all-1.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/接口/working jars/bouncycastle_jar包/bcprov-ext-jdk15on-151.jar"/>
+	<classpathentry kind="lib" path="F:/接口/working jars/bouncycastle_jar包/bcprov-jdk15on-151.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
